@@ -6,7 +6,7 @@
     "@rollup/plugin-commonjs": "^17.0.0",
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^11.0.1",
-    "rollup": "^2.36.1",
+    "rollup": "^2.80.0",
     "shx": "^0.3.3"
   },
   "dependencies": {
